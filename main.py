@@ -186,7 +186,7 @@ object3 = returnbook()  # object of return book
 def start():  # main method
     while (True):
         print("My Library Management System")
-        print("Select 1 to display all books in stok")
+        print("Select 1 to display all books in stock")
         print("Select 2 to borrow book")
         print("Select 3 to return book")
         print("Select 4 to quit")
